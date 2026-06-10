@@ -1,0 +1,44 @@
+
+
+.menu{
+    margin: 20px auto;
+        box-sizing:border-box;
+         text-align:center;
+}
+
+.menu a{
+    text-decoration: none;
+    background: #326fa2;
+    color: white;
+    padding: 15px 30px;
+    border: 1px solid #0d47a1;
+}
+
+.contenedor{
+    width: 600px;
+    margin: 40px auto;
+    background: #438d99;
+    border: 5px solid #0066cc;
+    border-radius: 30px;
+    padding: 40px;
+}
+
+table{
+    margin: auto;
+}
+
+input{
+    padding: 10px;
+}
+
+button{
+    width:130px;
+    height:130px;
+    border:1px solid #bdbdbd;
+    background:#ffffff;
+    font-size:35px;
+    font-style:italic;
+    font-weight:bold;
+    color:#1a4296;
+    cursor:pointer;
+}
